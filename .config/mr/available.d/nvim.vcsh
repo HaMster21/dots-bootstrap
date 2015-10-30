@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/nvim.git]
-checkout = vcsh clone git@github.com:HaMster21/dots-zsh.git
+checkout = vcsh clone git@github.com:HaMster21/dots-nvim.git
